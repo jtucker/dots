@@ -55,9 +55,6 @@
 					"PackageIdentifier" : "Postman.Postman"
 				},
 				{
-					"PackageIdentifier" : "Rufus.Rufus"
-				},
-				{
 					"PackageIdentifier" : "Spotify.Spotify"
 				},
 				{
@@ -71,9 +68,6 @@
 				},
 				{
 					"PackageIdentifier" : "Microsoft.VisualStudio.2019.Enterprise"
-				},
-				{
-					"PackageIdentifier" : "Balena.Etcher"
 				},
 				{
 					"PackageIdentifier" : "SlackTechnologies.Slack"
@@ -91,13 +85,7 @@
 					"PackageIdentifier" : "Microsoft.PowerToys"
 				},
 				{
-					"PackageIdentifier" : "Microsoft.VC++2015-2019Redist-x64"
-				},
-				{
 					"PackageIdentifier" : "gerardog.gsudo"
-				},
-				{
-					"PackageIdentifier" : "Microsoft.VC++2013Redist-x86"
 				},
 				{
 					"PackageIdentifier" : "Microsoft.AzureCLI"
@@ -125,9 +113,6 @@
 				},
 				{
 					"PackageIdentifier" : "jasongin.nvs"
-				},
-				{
-					"PackageIdentifier" : "gerardog.gsudo"
 				}
 			],
 			"SourceDetails" : 
